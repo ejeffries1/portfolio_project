@@ -1,0 +1,16 @@
+.jumbotron {
+    margin: 0;
+    background-color: lightcyan;
+}
+
+h5 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+.row-content {
+    padding: 50px;
+}
