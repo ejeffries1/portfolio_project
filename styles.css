@@ -1,6 +1,12 @@
+.footer {
+    background-color: black;
+    margin-top: 200px;
+    padding: 50px;
+}
+
 .jumbotron {
     margin: 0;
-    background-color: lightcyan;
+    background-color: black;
 }
 
 h5 {
@@ -13,4 +19,13 @@ p {
 
 .row-content {
     padding: 50px;
+}
+
+.table {
+    padding: auto;
+    margin-top: 20px;
+}
+
+#patient-card {
+    padding-top: 50px;
 }
